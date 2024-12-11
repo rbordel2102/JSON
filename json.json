@@ -33,7 +33,7 @@
         "goles": 400,
         "asistencias": 200,
         "partidos": 500,
-        "imagen": "https://i.pinimg.com/564x/7d/27/51/7d27511678c026ba3bd485a195a5696a.jpg"
+        "imagen": "https://css2.rtve.es/css/rtve.2022.deportes/mundial-futbol-catar-TE_SM7ALFL/estrellas/i/jugadores/neymar.png"
     },
     {
         "id": 4,
@@ -58,5 +58,65 @@
         "asistencias": 150,
         "partidos": 500,
         "imagen": "https://w7.pngwing.com/pngs/1003/113/png-transparent-kevin-de-bruyne-manchester-city-f-c-belgium-national-football-team-2017-18-premier-league-2018-world-cup-football-tshirt-blue-jersey-thumbnail.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Erling Haaland",
+        "posicion": "Delantero",
+        "equipo": "Manchester City",
+        "edad": 23,
+        "nacionalidad": "Noruega",
+        "goles": 210,
+        "asistencias": 60,
+        "partidos": 250,
+        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/7/7c/Haaland.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Luka Modric",
+        "posicion": "Mediocampista",
+        "equipo": "Real Madrid",
+        "edad": 38,
+        "nacionalidad": "Croacia",
+        "goles": 50,
+        "asistencias": 120,
+        "partidos": 750,
+        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/4/49/Modric.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Mohamed Salah",
+        "posicion": "Delantero",
+        "equipo": "Liverpool",
+        "edad": 31,
+        "nacionalidad": "Egipto",
+        "goles": 320,
+        "asistencias": 140,
+        "partidos": 550,
+        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/3/38/Salah.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Robert Lewandowski",
+        "posicion": "Delantero",
+        "equipo": "FC Barcelona",
+        "edad": 35,
+        "nacionalidad": "Polonia",
+        "goles": 550,
+        "asistencias": 150,
+        "partidos": 800,
+        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/b/b7/Lewandowski.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Thibaut Courtois",
+        "posicion": "Portero",
+        "equipo": "Real Madrid",
+        "edad": 31,
+        "nacionalidad": "Bélgica",
+        "goles": 0,
+        "asistencias": 5,
+        "partidos": 550,
+        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/6/6a/Courtois.png"
     }
 ]
