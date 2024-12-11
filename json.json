@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lionel Messi",
+        "posicion": "Delantero",
+        "equipo": "Inter Miami",
+        "edad": 36,
+        "nacionalidad": "Argentina",
+        "goles": 800,
+        "asistencias": 300,
+        "partidos": 1000,
+        "imagen": "https://picsum.photos/150/150?random=1"
+    },
+    {
+        "id": 2,
+        "nombre": "Cristiano Ronaldo",
+        "posicion": "Delantero",
+        "equipo": "Al-Nassr",
+        "edad": 39,
+        "nacionalidad": "Portugal",
+        "goles": 850,
+        "asistencias": 250,
+        "partidos": 1100,
+        "imagen": "https://picsum.photos/150/150?random=2"
+    },
+    {
+        "id": 3,
+        "nombre": "Neymar Jr.",
+        "posicion": "Delantero",
+        "equipo": "Al-Hilal",
+        "edad": 31,
+        "nacionalidad": "Brasil",
+        "goles": 400,
+        "asistencias": 200,
+        "partidos": 500,
+        "imagen": "https://picsum.photos/150/150?random=3"
+    },
+    {
+        "id": 4,
+        "nombre": "Kylian Mbappé",
+        "posicion": "Delantero",
+        "equipo": "PSG",
+        "edad": 24,
+        "nacionalidad": "Francia",
+        "goles": 250,
+        "asistencias": 100,
+        "partidos": 300,
+        "imagen": "https://picsum.photos/150/150?random=4"
+    },
+    {
+        "id": 5,
+        "nombre": "Kevin De Bruyne",
+        "posicion": "Centrocampista",
+        "equipo": "Manchester City",
+        "edad": 32,
+        "nacionalidad": "Bélgica",
+        "goles": 100,
+        "asistencias": 150,
+        "partidos": 500,
+        "imagen": "https://picsum.photos/150/150?random=5"
+    }
+]
