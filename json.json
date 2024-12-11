@@ -6,10 +6,10 @@
         "equipo": "Inter Miami",
         "edad": 36,
         "nacionalidad": "Argentina",
-        "goles": 800,
+        "goles": 900,
         "asistencias": 300,
         "partidos": 1000,
-        "imagen": "https://picsum.photos/150/150?random=1"
+        "imagen": "https://vignette1.wikia.nocookie.net/futbol/images/5/57/Messi.png/revision/latest?cb=20130627212727"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "goles": 850,
         "asistencias": 250,
         "partidos": 1100,
-        "imagen": "https://picsum.photos/150/150?random=2"
+        "imagen": "https://i.pinimg.com/originals/84/b8/3e/84b83e6cf6d88047b8bfa01fdd525be9.png"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "goles": 400,
         "asistencias": 200,
         "partidos": 500,
-        "imagen": "https://picsum.photos/150/150?random=3"
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foxsports.com%2Fsoccer%2Fneymar-player&psig=AOvVaw2up-JQsqsNoXEcdkqRAvQs&ust=1734006265773000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDewe3an4oDFQAAAAAdAAAAABAE"
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "goles": 250,
         "asistencias": 100,
         "partidos": 300,
-        "imagen": "https://picsum.photos/150/150?random=4"
+        "imagen": "https://e00-especiales-marca.uecdn.es/100-jugadores-2019/images/jugadores/perfil/KylianMbappe.png"
     },
     {
         "id": 5,
@@ -57,6 +57,6 @@
         "goles": 100,
         "asistencias": 150,
         "partidos": 500,
-        "imagen": "https://picsum.photos/150/150?random=5"
+        "imagen": "https://w7.pngwing.com/pngs/1003/113/png-transparent-kevin-de-bruyne-manchester-city-f-c-belgium-national-football-team-2017-18-premier-league-2018-world-cup-football-tshirt-blue-jersey-thumbnail.png"
     }
 ]
