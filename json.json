@@ -69,7 +69,7 @@
         "goles": 210,
         "asistencias": 60,
         "partidos": 250,
-        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/7/7c/Haaland.png"
+        "imagen": "https://img.uefa.com/imgml/TP/players/1/2025/cutoff/250103758.webp"
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
         "goles": 50,
         "asistencias": 120,
         "partidos": 750,
-        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/4/49/Modric.png"
+        "imagen": "https://publish-p47754-e237306.adobeaemcloud.com/content/dam/portals/realmadrid-com/es-es/sports/football/3kq9cckrnlogidldtdie2fkbl/players/luka-modric/assets/POSE_-10.png"
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
         "goles": 320,
         "asistencias": 140,
         "partidos": 550,
-        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/3/38/Salah.png"
+        "imagen": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2024-08/mohamed-salah-alternative-body-v2-2024.webp?itok=-25znOcr"
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
         "goles": 550,
         "asistencias": 150,
         "partidos": 800,
-        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/b/b7/Lewandowski.png"
+        "imagen": "https://assets.laliga.com/squad/2024/t178/p56764/2048x2048/p56764_t178_2024_1_002_000.jpg"
     },
     {
         "id": 10,
@@ -117,6 +117,6 @@
         "goles": 0,
         "asistencias": 5,
         "partidos": 550,
-        "imagen": "https://vignette.wikia.nocookie.net/futbol/images/6/6a/Courtois.png"
+        "imagen": "https://publish-p47754-e237306.adobeaemcloud.com/content/dam/portals/realmadrid-com/es-es/sports/football/3kq9cckrnlogidldtdie2fkbl/players/thibaut-courtois/assets/POSE_-7.png"
     }
 ]
